@@ -1,0 +1,65 @@
+body {
+    background-color: black;
+    color: gold;
+}
+
+#sporting {
+    color: green;
+    background-color: white;
+}
+
+#mu 
+{
+ background-color: red;
+ color: black;
+}
+
+#realm
+{
+    background-color: white;
+    color: black;
+}
+
+#juve 
+{
+    background-color: grey;
+ color: silver;
+}
+#tuga
+{
+    background-color: red;
+color: seagreen;
+}
+#tit 
+{
+    font-family: fantasy;
+    font-size: 70px;
+    color: rgba(80, 249, 255, 0.568);
+}
+#trofeu 
+{
+    color: goldenrod;
+    font-style: italic;
+}
+nav 
+{
+ text-align: center;
+}
+
+p 
+{
+text-align: center ;    
+}
+ul
+{
+text-align: center ; 
+list-style-type: none;   
+}
+li {
+    display: list-item;
+    background: black;
+    padding: 5px 10px;
+    margin: 0 3px;
+    color:goldenrod;
+    margin-right:10px;
+}
